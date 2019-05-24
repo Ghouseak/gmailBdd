@@ -1,0 +1,5 @@
+pages\MailBox.class
+tests\GamilMethods.class
+pages\LoginPage.class
+tests\GmailRunners.class
+pages\Launchpage.class
